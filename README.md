@@ -102,7 +102,7 @@ Procedure:
 
 ### Current Release Cycle
 
-[Dates and further information for the 1.34 Release](https://github.com/kubernetes/sig-release/tree/master/releases/release-1.34)
+[Dates and further information for the 1.38 Release](https://github.com/kubernetes/sig-release/tree/master/releases/release-1.38)
 
 ## Exceptions to Enhancement Milestone Dates
 
